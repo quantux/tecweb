@@ -1,0 +1,277 @@
+# Este arquivo viminfo foi gerado pelo Vim 7.4.
+# Você pode editá-lo se for cuidadoso!
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Último padrão de busca :
+~MSle0~/ExecStart
+
+# Histórico de Linha de comando (mais recente primeiro):
+:q
+:w
+:q!
+:Q
+:2
+:wq!
+:wd!
+
+# Histórico de Expressões de busca (mais recente primeiro):
+?/ExecStart
+?/mysql
+
+# Histórico de Expressão (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Registradores:
+""1	LINE	0
+	UUID=98d93f31-bce5-4c3b-a687-9c24ed282ad7
+"2	LINE	0
+	
+	skip-grant-tables
+"3	LINE	0
+	[mysqld]
+"4	LINE	0
+	    include /etc/nginx/sites-available/*;
+"5	LINE	0
+	    include /etc/nginx/sites-enable/*;	
+"-	CHAR	0
+	t
+
+# Marcas nos arquivos:
+'0  25  14  ~/docker/tecweb/apache-php/www/webservices/servidor.php
+'1  11  44  ~/docker/tecweb/apache-php/www/webservices/cliente.php
+'2  31  8  ~/docker/tecweb/apache-php/www/webservices/servidor.php
+'3  10  4  ~/docker/tecweb/apache-php/www/webservices/cliente.php
+'4  7  0  ~/docker/tecweb/apache-php/www/webservices/servidor.php
+'5  2  0  ~/docker/tecweb/apache-php/www/webservices/servidor.php
+'6  6  4  ~/docker/tecweb/webservices/servidor.php
+'7  1  8  ~/docker/tecweb/rest_soap/Dockerfile
+'8  5  13  ~/docker/tecweb/apache-php/www/webservices/servidor.php
+'9  2  0  ~/docker/tecweb/apache-php/Dockerfile
+
+# Lista de saltos (mais recente primeiro):
+-'  25  14  ~/docker/tecweb/apache-php/www/webservices/servidor.php
+-'  31  8  ~/docker/tecweb/apache-php/www/webservices/servidor.php
+-'  11  44  ~/docker/tecweb/apache-php/www/webservices/cliente.php
+-'  10  4  ~/docker/tecweb/apache-php/www/webservices/cliente.php
+-'  7  0  ~/docker/tecweb/apache-php/www/webservices/servidor.php
+-'  1  1  ~/docker/tecweb/apache-php/www/webservices/cliente.php
+-'  2  0  ~/docker/tecweb/apache-php/www/webservices/servidor.php
+-'  5  4  ~/docker/tecweb/apache-php/www/webservices/servidor.php
+-'  6  4  ~/docker/tecweb/webservices/servidor.php
+-'  1  0  ~/docker/tecweb/webservices/servidor.php
+-'  1  8  ~/docker/tecweb/rest_soap/Dockerfile
+-'  1  0  ~/docker/tecweb/apache-php/www/webservices/servidor.php
+-'  2  0  ~/docker/tecweb/apache-php/Dockerfile
+-'  15  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  0  ~/docker/tecweb/apache-php/docker-compose.yml
+-'  1  0  ~/docker/tecweb/apache-php/docker-compose
+-'  1  0  ~/docker/tecweb/apache-php/Dockerfile
+-'  6  18  /etc/sysconfig/network-scripts/ifcfg-enp0s8
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s8
+-'  11  18  /etc/sysconfig/network-scripts/ifcfg-enp0s8
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  3  /etc/hostname
+-'  2  47  /etc/docker/daemon.json
+-'  1  0  /etc/docker/daemon.json
+-'  4  26  /etc/hosts
+-'  1  0  /etc/hosts
+-'  1  0  /etc/docker/key.json
+-'  14  37  /usr/lib/systemd/system/docker.service
+-'  1  0  /usr/lib/systemd/system/docker.service
+-'  1  0  /etc/sysconfig/docker
+-'  23  0  ~/my.cnf
+-'  24  0  ~/my.cnf
+-'  22  17  ~/my.cnf
+-'  6  11  ~/my.cnf
+-'  5  11  ~/my.cnf
+-'  4  11  ~/my.cnf
+-'  1  0  ~/my.cnf
+-'  32  0  /etc/nginx/nginx.conf
+-'  6  33  /etc/nginx/sites-available/teste
+-'  1  0  /etc/nginx/sites-available/teste
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  33  0  /etc/nginx/nginx.conf
+-'  1  0  /etc/nginx/nginx.conf
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  6  33  /etc/nginx/sites-available/teste
+-'  1  0  /etc/nginx/sites-available/teste
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  34  0  /etc/nginx/nginx.conf
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  6  33  /etc/nginx/sites-available/teste
+-'  1  0  /etc/nginx/sites-available/teste
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  6  33  /etc/nginx/sites-available/teste
+-'  1  0  /etc/nginx/sites-available/teste
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  6  33  /etc/nginx/sites-available/teste
+-'  1  0  /etc/nginx/sites-available/teste
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  6  33  /etc/nginx/sites-available/teste
+-'  1  0  /etc/nginx/sites-available/teste
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  35  0  /etc/nginx/nginx.conf
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  6  33  /etc/nginx/sites-available/teste
+-'  1  0  /etc/nginx/sites-available/teste
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  6  33  /etc/nginx/sites-available/teste
+-'  1  0  /etc/nginx/sites-available/teste
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  32  0  /etc/nginx/nginx.conf
+-'  6  33  /etc/nginx/sites-available/teste
+-'  1  0  /etc/nginx/sites-available/teste
+-'  8  25  /etc/nginx/sites-available/index.html
+-'  1  0  /etc/nginx/sites-available/index.html
+-'  33  0  /etc/nginx/nginx.conf
+-'  1  0  /etc/nginx/nginx.conf
+-'  8  25  /etc/nginx/sites-available/index.html
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> ~/docker/tecweb/apache-php/www/webservices/servidor.php
+	"	25	14
+	^	25	19
+	.	25	18
+	+	9	21
+	+	7	0
+	+	24	53
+	+	25	18
+
+> ~/docker/tecweb/apache-php/www/webservices/cliente.php
+	"	11	44
+	^	11	45
+	.	11	44
+	+	10	37
+	+	8	43
+	+	10	56
+	+	11	44
+
+> ~/docker/tecweb/webservices/servidor.php
+	"	6	4
+
+> ~/docker/tecweb/rest_soap/Dockerfile
+	"	1	8
+
+> ~/docker/tecweb/apache-php/Dockerfile
+	"	2	0
+
+> /etc/sysconfig/network-scripts/ifcfg-enp0s3
+	"	15	0
+	.	13	0
+	+	13	0
+
+> ~/docker/tecweb/apache-php/docker-compose.yml
+	"	1	0
+
+> ~/docker/tecweb/apache-php/docker-compose
+	"	1	0
+
+> /etc/sysconfig/network-scripts/ifcfg-enp0s8
+	"	6	18
+	^	6	19
+	.	6	18
+	+	1	0
+	+	12	0
+	+	11	18
+	+	10	14
+	+	7	0
+	+	6	18
+
+> /etc/hostname
+	"	1	3
+	^	1	4
+	.	1	4
+	+	1	0
+	+	2	0
+	+	1	4
+
+> /etc/docker/daemon.json
+	"	2	47
+	^	2	48
+	.	2	47
+	+	3	0
+	+	2	47
+
+> /etc/hosts
+	"	4	26
+	^	4	27
+	.	4	26
+	+	4	26
+
+> /etc/docker/key.json
+	"	1	0
+
+> /usr/lib/systemd/system/docker.service
+	"	14	37
+	^	14	38
+	.	14	37
+	+	14	37
+
+> /etc/sysconfig/docker
+	"	1	0
+
+> ~/my.cnf
+	"	23	0
+	.	24	0
+	+	24	8
+	+	24	0
+
+> /etc/nginx/nginx.conf
+	"	32	0
+	.	32	0
+	+	32	0
+	+	32	0
+
+> /etc/nginx/sites-available/teste
+	"	6	33
+	^	6	34
+	.	7	0
+	+	7	0
+	+	4	24
+	+	5	12
+	+	6	34
+	+	7	0
+
+> /etc/nginx/sites-available/index.html
+	"	8	25
+	^	8	26
+	.	8	25
+	+	1	14
+	+	3	22
+	+	5	16
+	+	3	8
+	+	6	10
+	+	7	6
+	+	9	0
+	+	11	6
+	+	8	25
