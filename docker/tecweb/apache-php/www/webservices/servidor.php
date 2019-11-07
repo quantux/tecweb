@@ -1,16 +1,16 @@
 <?php
-include('lib/nusoap.php');
+    include('lib/nusoap.php');
 
     $servidor = new nusoap_server();
     $servidor->configureWSDL('urn:Servidor');
     $servidor->wsdl->schemaTargetNamespace = 'urn:Servidor';
 
     function somar($num1, $num2){
-        return($num1 + $num2);
+        return $num1 + $num2;
     }
 
      function cadastrar($nome, $idade) {
-        return('O '. $nome . ' tem ' .$idade . ' de idade');
+        return 'O '. $nome . ' tem ' .$idade . ' de idade';
     }
 
     $servidor->register(
@@ -21,8 +21,7 @@ include('lib/nusoap.php');
         'urn:Servidor.somar',
         'rpc',
         'encoded',
-        #'Apenas um exemplo utilizando o NuSOAP PHP.'
-	somar($num1, $num2)
+        'Função para somar dois números.'
     );
 
     $servidor->register(
@@ -33,7 +32,7 @@ include('lib/nusoap.php');
         'urn:Servidor.cadastrar',
         'rpc',
         'encoded',
-        'Apenas um exemplo utilizando o NuSOAP PHP.'
+        'Função para cadastrar um usuário.'
     );
 
 
